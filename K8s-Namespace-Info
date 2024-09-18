@@ -1,0 +1,11 @@
+To select the namespace in the kubernetes we need to install kubens - (https://github.com/ahmetb/kubectx/releases)
+
+cd /usr/local/bin
+wget https://github.com/ahmetb/kubectx/releases/download/v0.9.5/kubens_v0.9.5_linux_x86_64.tar.gz
+tar -xzvf kubens_v0.9.5_linux_x86_64.tar.gz
+
+Goto Terminal type $kubens to check namespaces
+To change ns type  $kubens namespace-name 
+                   $kubens devops
+
+
