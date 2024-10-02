@@ -11,3 +11,5 @@ https://kubernetes.io/docs/concepts/services-networking/service/
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 
+https://archive.eksworkshop.com/intermediate/290_argocd/configure/
+
